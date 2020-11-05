@@ -1,2 +1,2 @@
 # gitpractice
-for practicing git commands - delete at any time
+for practicing/verifing git commands - may be deleted at any time
